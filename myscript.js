@@ -47,5 +47,5 @@ console.log(meals[i])
         let meals = 0;
         console.log(meals[meals]); 
         meals++;
-        meals < meals.length;
+        
     }
