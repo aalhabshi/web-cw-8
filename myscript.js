@@ -43,3 +43,9 @@ console.log(meals[i])
 // --------------------------------- 🔥 بونص ------------------------------------
 // while loop اطبع احد المصفوفات بإستخدام
 
+    while(meals){
+        let meals = 0;
+        console.log(meals[meals]); 
+        meals++;
+        meals < meals.length;
+    }
